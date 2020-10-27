@@ -1,0 +1,77 @@
+{
+    "products": [
+      {
+        "_id": "dress1",
+        "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/10308671/2019/7/29/4276e20b-9a87-489e-9c49-95b67dc0b6c81564383574672-SASSAFRAS-Women-Jumpsuit-251564383573404-1.jpg",
+        "title": "Midi sundress with shirring detail",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled for you.",
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "price": 29.9
+      },
+      {
+        "_id": "dress2",
+        "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10178861/2019/7/8/7ccc8b5a-6051-44bb-bf05-f3491a3400b71562573763036-GERUA-Women-Beige--Mustard-Maxi-Dress-9681562573761086-1.jpg",
+        "title": "Midi sundress with ruched front",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled for you.",
+        "availableSizes": ["X", "M", "L"],
+        "price": 18.9
+      },
+      {
+        "_id": "dress3",
+        "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10308653/2019/7/29/2ac2acbb-d1ae-4fde-b39b-5a1b88aa45b41564401122035-SASSAFRAS-Women-Pink-Maxi-Dress-4111564401120260-3.jpg",
+        "title": "Midi dress in pink ditsy floral",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled for you.",
+        "availableSizes": ["X", "M", "L"],
+        "price": 14.9
+      },
+      {
+        "_id": "dress4",
+        "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7578935/2018/10/23/d7b740bc-e00e-4bec-97aa-65016f8ff2e71540289479612-Harpa-Women-Dresses-2331540289479465-1.jpg",
+        "title": "cami maxi dress in polka dot",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled for you.",
+        "availableSizes": ["XL"],
+        "price": 25.9
+      },
+      {
+        "_id": "dress5",
+        "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/6625378/2018/6/5/fcec8d8e-4253-4fa4-ae6e-c6805b3b8fd31528183265021-na-2331528183264786-1.jpg",
+        "title": "Frill mini dress in yellow polka dot",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled for you.",
+        "availableSizes": ["X", "L", "XL"],
+        "price": 10.9
+      },
+      {
+        "_id": "dress6",
+        "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11099560/2020/1/10/de32fb9a-c466-4651-82a6-523709df08131578658929671-UF-Women-Blue--Pink-Printed-Maxi-Dress-41578658928124-1.jpg",
+        "title": "Women Blue & Pink Printed Maxi Dress",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled for you.",
+        "availableSizes": ["XL", "XXL"],
+        "price": 49.9
+      },
+      {
+        "_id": "dress7",
+        "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2440697/2018/2/6/11517899041453-Libas-Women-Kurtas-7161517899041331-4.jpg",
+        "title": "Women ethinic Western Wear",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled for you.",
+        "availableSizes": ["XS","S" ,"XL", "XXL"],
+        "price": 37.1
+      },
+      {
+        "_id": "dress8",
+        "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11085528/2019/12/6/1877c094-e655-47f5-a09a-b0def340310e1575617764787-lal10-Charcoal-Grey--Silver-Pure-Cotton-Handwoven-Solid-Samb-1.jpg",
+        "title": "Sambalpuri Saree red and grey",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled for you.",
+        "availableSizes": ["M","L", "XXL"],
+        "price":53.4
+      },
+      {
+        "_id": "dress9",
+        "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7723402/2018/11/12/8b5e3c9b-f8dc-41c9-869f-915af52190241542014521834-Nayo-Women-Dresses-9861542014521723-1.jpg",
+        "title": "Women Grey & Black Colourblocked Maxi Dress",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled for you.",
+        "availableSizes": ["XS" ,"XL"],
+        "price": 18.7
+      }
+      
+    ]
+  }
