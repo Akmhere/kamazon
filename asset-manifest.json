@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kamazon/static/css/main.3abbd6a0.chunk.css",
+    "main.js": "/kamazon/static/js/main.cddc5e40.chunk.js",
+    "main.js.map": "/kamazon/static/js/main.cddc5e40.chunk.js.map",
+    "runtime-main.js": "/kamazon/static/js/runtime-main.1f2a0ac4.js",
+    "runtime-main.js.map": "/kamazon/static/js/runtime-main.1f2a0ac4.js.map",
+    "static/js/2.865d18e8.chunk.js": "/kamazon/static/js/2.865d18e8.chunk.js",
+    "static/js/2.865d18e8.chunk.js.map": "/kamazon/static/js/2.865d18e8.chunk.js.map",
+    "index.html": "/kamazon/index.html",
+    "precache-manifest.88bc48da424c1590dce1b07d8da14b43.js": "/kamazon/precache-manifest.88bc48da424c1590dce1b07d8da14b43.js",
+    "service-worker.js": "/kamazon/service-worker.js",
+    "static/css/main.3abbd6a0.chunk.css.map": "/kamazon/static/css/main.3abbd6a0.chunk.css.map",
+    "static/js/2.865d18e8.chunk.js.LICENSE.txt": "/kamazon/static/js/2.865d18e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f2a0ac4.js",
+    "static/js/2.865d18e8.chunk.js",
+    "static/css/main.3abbd6a0.chunk.css",
+    "static/js/main.cddc5e40.chunk.js"
+  ]
+}
